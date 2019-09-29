@@ -1,0 +1,4 @@
+INSERT INTO employee VALUES
+('Franklin', 'T', 'Wong', '333445555', '1955-12-08', '538 Voss, Houston, TX', 'M', 40000,'888665555', 5),
+('Alicia', 'J', 'Zelaya', '999887777', '1968-01-19', '3321 Castle, Spring, TX', 'F', 25000, '987654321',4),
+('Jennifer', 'S', 'Wallace', '987654321', '1941-06-20', '291 Berry, Bellaire, TX', 'F', 43000, '88665555', 4); 
